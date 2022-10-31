@@ -2,7 +2,7 @@ Gesetz über die Freiheit des Zugangs zu Informationen für das Land Nordrhein-W
 
 Vom 27. November 2001 (Fn 1)
 
-Inhaltsverzeichnis
+Inhaltsverzeichnis (Fn 3)
 
 § 1 Zweck des Gesetzes
 
@@ -30,7 +30,7 @@ Inhaltsverzeichnis
 
 § 13 Beauftragte oder Beauftragter für das Recht auf Information
 
-§ 14 In-Kraft-Treten, Berichtspflicht
+§ 14 Inkrafttreten
 
 § 1
 Zweck des Gesetzes
@@ -162,10 +162,12 @@ für das Recht auf Information
 
 (3) Die oder der Landesbeauftragte für den Datenschutz legt dem Landtag und der Landesregierung jeweils für zwei Kalenderjahre einen Bericht über ihre oder seine Tätigkeit als Beauftragte oder Beauftragter für das Recht auf Information vor. § 27 des Datenschutzgesetzes Nordrhein-Westfalen gilt entsprechend.
 
-§ 14 (Fn 2)
-In-Kraft-Treten, Berichtspflicht
+§ 14 (Fn 3)
+Inkrafttreten
 
-Dieses Gesetz tritt am 1. Januar 2002 in Kraft. Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2014 und danach alle fünf Jahre über die Erfahrungen mit diesem Gesetz.
+Dieses Gesetz tritt am 1. Januar 2002 in Kraft.
+
+(Fn 2)
 
 Die Landesregierung
 Nordrhein-Westfalen
@@ -206,8 +208,12 @@ im Geschäftsbereich des Ministerpräsidenten
 
 Fn 1
 
-GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009.
+GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009; Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014.
 
 Fn 2
 
-§ 14 neu gefasst und § 15 gestrichen durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351); in Kraft getreten am 30. April 2005; § 14 Satz 2 geändert durch Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009.
+§ 15 gestrichen durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351); in Kraft getreten am 30. April 2005.
+
+Fn 3
+
+Inhaltsverzeichnis geändert und § 14 neu gefasst durch Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014.
