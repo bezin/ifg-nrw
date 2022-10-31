@@ -133,12 +133,12 @@ b) die betroffene Person als Gutachter, Sachverständiger oder in vergleichbarer
 
 es sei denn, der Offenbarung stehen schutzwürdige Belange der betroffenen Person entgegen.
 
-§ 10
+§ 10 (Fn 4)
 Einwilligung der betroffenen Person
 
 (1) Im Fall des § 9 Abs. 1 Buchstabe a) ist zu prüfen, ob dem Antrag auf Informationszugang nach Abtrennung oder Schwärzung der personenbezogenen Daten stattgegeben werden kann. Ist dies nicht oder nur mit unverhältnismäßigem Aufwand möglich, hat die öffentliche Stelle unverzüglich die Einwilligung der betroffenen Person einzuholen. Wird die Einwilligung nicht erteilt oder gilt sie nach § 5 Abs. 3 als verweigert, besteht der Anspruch auf Informationszugang nicht.
 
-(2) Die öffentlichen Stellen treffen gemäß § 4 Abs. 6 des Datenschutzgesetzes Nordrhein-Westfalen geeignete Maßnahmen, damit Informationen, die dem Anwendungsbereich der §§ 6 bis 9 unterfallen, möglichst ohne unverhältnismäßigen Aufwand abgetrennt werden können.
+(2) Die öffentlichen Stellen treffen nach dem geltenden Datenschutzrecht geeignete Maßnahmen, damit Informationen, die dem Anwendungsbereich der §§ 6 bis 9 unterfallen, möglichst ohne unverhältnismäßigen Aufwand abgetrennt werden können.
 
 § 11
 Kosten
@@ -152,15 +152,38 @@ Veröffentlichungspflichten
 
 Geschäftsverteilungspläne, Organigramme und Aktenpläne sind nach Maßgabe dieses Gesetzes allgemein zugänglich zu machen. Die öffentlichen Stellen sollen Verzeichnisse führen, aus denen sich die vorhandenen Informationssammlungen und -zwecke erkennen lassen. Soweit möglich hat die Veröffentlichung in elektronischer Form zu erfolgen. § 4 Abs. 2 Satz 1 dieses Gesetzes bleibt unberührt.
 
-§ 13
+§ 13 (Fn 4)
 Beauftragte oder Beauftragter
 für das Recht auf Information
 
-(1) Für die Sicherstellung des Rechts auf Information ist die oder der Landesbeauftragte für den Datenschutz zuständig.
+(1) Für die Sicherstellung des Rechts auf Information ist die oder der Landesbeauftragte für den Datenschutz und Informationsfreiheit zuständig.
 
-(2) Jeder hat das Recht, die Landesbeauftragte oder den Landesbeauftragten für den Datenschutz als Beauftragte oder Beauftragten für das Recht auf Information anzurufen. Das Datenschutzgesetz Nordrhein-Westfalen gilt entsprechend.
+(2) Jeder hat das Recht, die Landesbeauftragte oder den Landesbeauftragten für Datenschutz und Informationsfreiheit als Beauftragte oder Beauftragten für das Recht auf Information anzurufen.
 
-(3) Die oder der Landesbeauftragte für den Datenschutz legt dem Landtag und der Landesregierung jeweils für zwei Kalenderjahre einen Bericht über ihre oder seine Tätigkeit als Beauftragte oder Beauftragter für das Recht auf Information vor. § 27 des Datenschutzgesetzes Nordrhein-Westfalen gilt entsprechend.
+(3) Berufung und Rechtsstellung der oder des Landesbeauftragten für Datenschutz und Informationsfreiheit richtet sich nach § 25 des Datenschutzgesetzes Nordrhein-Westfalen vom 17. Mai 2018 (GV. NRW. S. 244).
+
+(4) Die in § 2 vom Anwendungsbereich umfassten Stellen sind verpflichtet, die Landesbeauftragte oder den Landesbeauftragten für Datenschutz und Informationsfreiheit bei der Aufgabenerfüllung zu unterstützen. Der oder dem Landesbeauftragten für Datenschutz und Informationsfreiheit ist dabei insbesondere
+1. Auskunft zu ihren oder seinen Fragen zu erteilen sowie die Einsicht in alle Unterlagen und Akten zu gewähren, die im Zusammenhang mit dem Informationsanliegen stehen und
+2. Zutritt zu Diensträumen zu gewähren.
+Gesetzliche Geheimhaltungsvorschriften können einem Auskunfts- oder Einsichtsverlangen nicht entgegen gehalten werden.
+
+(5) Die Rechte der oder des Landesbeauftragten für Datenschutz und Informationsfreiheit nach Absatz 4 dürfen nur von ihr oder ihm persönlich ausgeübt werden, wenn die oberste Landesbehörde im Einzelfall feststellt, dass die Sicherheit des Bundes oder eines Landes dies gebietet. In diesem Fall müssen personenbezogene Daten einer betroffenen Person, der von der datenverarbeitenden Stelle Vertraulichkeit besonders zugesichert worden ist, auch ihr oder ihm gegenüber nicht offenbart werden.
+
+(6) Stellt die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit Verstöße gegen dieses Gesetz bei nach § 2 informationspflichtigen Stellen fest, so fordert sie oder er diese zur Mängelbeseitigung auf. Bei Verstößen gegen die Informationspflicht kann er oder sie diese beanstanden
+1. bei der Landesverwaltung gegenüber der zuständigen obersten Landesbehörde,
+2. beim Landesrechnungshof gegenüber der Präsidentin oder dem Präsidenten,
+3. bei der Kommunalverwaltung gegenüber der jeweils verantwortlichen Gemeinde oder dem verantwortlichen Gemeindeverband,
+4. bei den wissenschaftlichen Hochschulen und Fachhochschulen gegenüber der Hochschulpräsidentin oder dem Hochschulpräsidenten oder der Rektorin oder dem Rektor, bei öffentlichen Schulen gegenüber der Leitung der Schule und
+5. bei den sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts gegenüber dem Vorstand oder dem sonst vertretungsberechtigten Organ
+und fordert zur Stellungnahme innerhalb einer von ihr oder ihm zu bestimmenden Frist auf. In den Fällen von Satz 1 Nummer 2 bis 5 unterrichtet die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit gleichzeitig auch die zuständige Aufsichtsbehörde.
+
+(7) Die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit kann von einer Beanstandung absehen oder auf eine Stellungnahme der betroffenen Stelle verzichten, wenn es sich um unerhebliche Mängel handelt oder wenn ihre Behebung sichergestellt ist.
+
+(8) Mit der Beanstandung kann die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit Vorschläge zur Beseitigung der Mängel und zur sonstigen Verbesserung des Informationszugangs verbinden.
+
+(9) Die gemäß Absatz 6 abzugebende Stellungnahme soll auch eine Darstellung der Maßnahmen enthalten, die auf Grund der Beanstandung der oder des Landesbeauftragten für Datenschutz und Informationsfreiheit getroffen worden sind. Die in Absatz 6 Nummer 2 bis 4 genannten Stellen leiten der zuständigen Aufsichtsbehörde eine Abschrift ihrer Stellungnahme an die Landesbeauftragte oder den Landesbeauftragten für Datenschutz und Informationsfreiheit zu.
+
+(10) Die oder der Landesbeauftragte für Datenschutz und Informationsfreiheit legt dem Landtag und der Landesregierung jeweils für zwei Kalenderjahre einen Bericht über ihre oder seine Tätigkeit als Beauftragte oder Beauftragter für das Recht auf Information vor. § 30 des Datenschutzgesetzes Nordrhein-Westfalen gilt entsprechend.
 
 § 14 (Fn 3)
 Inkrafttreten
@@ -206,9 +229,14 @@ Die Ministerin
 für Bundes- und Europaangelegenheiten
 im Geschäftsbereich des Ministerpräsidenten
 
+ 
+
+Hinweis:
+Vollzitat, starre Verweisung: „Informationsfreiheitsgesetz Nordrhein-Westfalen vom 27. November 2001 (GV. NRW. S. 806), das zuletzt durch Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244, ber. S. 404) geändert worden ist,“
+
 Fn 1
 
-GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009; Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014.
+GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009; Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014; Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244, ber. S. 404), in Kraft getreten am 25. Mai 2018.
 
 Fn 2
 
@@ -217,3 +245,9 @@ Fn 2
 Fn 3
 
 Inhaltsverzeichnis geändert und § 14 neu gefasst durch Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014.
+
+Fn 4
+
+§ 10 Absatz 2 geändert und § 13 neu gefasst durch Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244), in Kraft getreten am 25. Mai 2018.
+
+ 
