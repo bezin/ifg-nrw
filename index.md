@@ -60,10 +60,10 @@ Informationsrecht
 
 (2) Soweit besondere Rechtsvorschriften über den Zugang zu amtlichen Informationen, die Auskunftserteilung oder die Gewährung von Akteneinsicht bestehen, gehen sie den Vorschriften dieses Gesetzes vor. Im Rahmen dieses Gesetzes entfällt die Pflicht zur Amtsverschwiegenheit.
 
-§ 5
+§ 5 (Fn 5)
 Verfahren
 
-(1) Der Zugang zu den bei den öffentlichen Stellen vorhandenen Informationen wird auf Antrag gewährt. Der Antrag kann schriftlich, mündlich oder in elektronischer Form gestellt werden. Er muss hinreichend bestimmt sein und insbesondere erkennen lassen, auf welche Informationen er gerichtet ist. Anträge auf Zugang zu amtlichen Informationen der Verwaltungstätigkeit von Schulen sind in inneren Schulangelegenheiten an die Schulaufsicht, in äußeren Schulangelegenheiten an die Schulträger zu richten. Begehrt die Antragstellerin oder der Antragsteller eine bestimmte Art des Informationszugangs, so darf nur dann eine andere Art bestimmt werden, wenn hierfür ein wichtiger Grund vorliegt.
+(1) Der Zugang zu den bei den öffentlichen Stellen vorhandenen Informationen wird auf Antrag gewährt. Der Antrag kann schriftlich, mündlich oder elektronisch gestellt werden. Er muss hinreichend bestimmt sein und insbesondere erkennen lassen, auf welche Informationen er gerichtet ist. Anträge auf Zugang zu amtlichen Informationen der Verwaltungstätigkeit von Schulen sind in inneren Schulangelegenheiten an die Schulaufsicht, in äußeren Schulangelegenheiten an die Schulträger zu richten. Begehrt die Antragstellerin oder der Antragsteller eine bestimmte Art des Informationszugangs, so darf nur dann eine andere Art bestimmt werden, wenn hierfür ein wichtiger Grund vorliegt.
 
 (2) Die Information soll unverzüglich, spätestens innerhalb eines Monats nach Antragstellung, zugänglich gemacht werden. Die inhaltliche Richtigkeit der Information ist nicht zu überprüfen. Die Ablehnung eines Antrages nach Absatz 1 oder die Beschränkung des beantragten Zugangs zu einer Information ist schriftlich zu erteilen und zu begründen; bei mündlicher Antragstellung gilt die Schriftform nur auf ausdrückliches Verlangen der Antragstellerin oder des Antragstellers. Die informationssuchende Person ist im Falle der Ablehnung auch auf ihr Recht nach § 13 Abs. 2 hinzuweisen.
 
@@ -147,10 +147,10 @@ Kosten
 
 (2) Die Landesregierung wird ermächtigt, im Einvernehmen mit dem Landtagsausschuss für Innere Verwaltung und Verwaltungsstrukturreform die Gebührentatbestände und die Gebühren durch Rechtsverordnung (Gebührenordnung) zu bestimmen. Die Bestimmungen des Gebührengesetzes des Landes Nordrhein-Westfalen bleiben im Übrigen unberührt.
 
-§ 12
+§ 12 (Fn 5)
 Veröffentlichungspflichten
 
-Geschäftsverteilungspläne, Organigramme und Aktenpläne sind nach Maßgabe dieses Gesetzes allgemein zugänglich zu machen. Die öffentlichen Stellen sollen Verzeichnisse führen, aus denen sich die vorhandenen Informationssammlungen und -zwecke erkennen lassen. Soweit möglich hat die Veröffentlichung in elektronischer Form zu erfolgen. § 4 Abs. 2 Satz 1 dieses Gesetzes bleibt unberührt.
+Geschäftsverteilungspläne, Organigramme und Aktenpläne sind nach Maßgabe dieses Gesetzes allgemein zugänglich zu machen. Die öffentlichen Stellen sollen Verzeichnisse führen, aus denen sich die vorhandenen Informationssammlungen und -zwecke erkennen lassen. Soweit möglich hat die Veröffentlichung elektronisch zu erfolgen. § 4 Abs. 2 Satz 1 dieses Gesetzes bleibt unberührt.
 
 § 13 (Fn 4)
 Beauftragte oder Beauftragter
@@ -229,14 +229,14 @@ Die Ministerin
 für Bundes- und Europaangelegenheiten
 im Geschäftsbereich des Ministerpräsidenten
 
- 
-
 Hinweis:
 Vollzitat, starre Verweisung: „Informationsfreiheitsgesetz Nordrhein-Westfalen vom 27. November 2001 (GV. NRW. S. 806), das zuletzt durch Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244, ber. S. 404) geändert worden ist,“
 
+Fußnoten:
+
 Fn 1
 
-GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009; Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014; Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244, ber. S. 404), in Kraft getreten am 25. Mai 2018.
+GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009; Artikel 4 des Gesetzes vom 2. Oktober 2014 (GV. NRW. S. 622), in Kraft getreten am 16. Oktober 2014; Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244, ber. S. 404), in Kraft getreten am 25. Mai 2018; Artikel 46 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
 
 Fn 2
 
@@ -250,4 +250,6 @@ Fn 4
 
 § 10 Absatz 2 geändert und § 13 neu gefasst durch Artikel 2 des Gesetzes vom 17. Mai 2018 (GV. NRW. S. 244), in Kraft getreten am 25. Mai 2018.
 
- 
+Fn 5
+
+§ 5 Absatz 1 und § 12 geändert durch Artikel 46 des Gesetzes vom 1. Februar 2022 (GV. NRW. S. 122), in Kraft getreten am 19. Februar 2022.
