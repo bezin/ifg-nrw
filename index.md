@@ -165,7 +165,7 @@ für das Recht auf Information
 § 14 (Fn 2)
 In-Kraft-Treten, Berichtspflicht
 
-Dieses Gesetz tritt am 1. Januar 2002 in Kraft. Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2009 über die Erfahrungen mit diesem Gesetz.
+Dieses Gesetz tritt am 1. Januar 2002 in Kraft. Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2014 und danach alle fünf Jahre über die Erfahrungen mit diesem Gesetz.
 
 Die Landesregierung
 Nordrhein-Westfalen
@@ -206,8 +206,8 @@ im Geschäftsbereich des Ministerpräsidenten
 
 Fn 1
 
-GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005.
+GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005; Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009.
 
 Fn 2
 
-§ 14 neu gefasst und § 15 gestrichen durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351); in Kraft getreten am 30. April 2005.
+§ 14 neu gefasst und § 15 gestrichen durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351); in Kraft getreten am 30. April 2005; § 14 Satz 2 geändert durch Artikel 7 des Gesetzes vom 8. Dezember 2009 (GV. NRW. S. 765), in Kraft getreten am 16. Dezember 2009.
