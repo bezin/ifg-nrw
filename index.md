@@ -30,9 +30,7 @@ Inhaltsverzeichnis
 
 § 13 Beauftragte oder Beauftragter für das Recht auf Information
 
-§ 14 Überprüfung der Auswirkungen des Gesetzes
-
-§ 15 In-Kraft-Treten
+§ 14 In-Kraft-Treten, Berichtspflicht
 
 § 1
 Zweck des Gesetzes
@@ -94,6 +92,7 @@ Schutz des behördlichen
 Entscheidungsbildungsprozesses
 
 (1) Der Antrag auf Informationszugang ist abzulehnen für Entwürfe zu Entscheidungen, für Arbeiten und Beschlüsse zu ihrer unmittelbaren Vorbereitung sowie für Protokolle vertraulicher Beratungen.
+
 (2) Der Antrag soll abgelehnt werden, wenn
 
 a) sich der Inhalt der Information auf den Prozess der Willensbildung innerhalb von und zwischen öffentlichen Stellen bezieht oder
@@ -163,18 +162,10 @@ für das Recht auf Information
 
 (3) Die oder der Landesbeauftragte für den Datenschutz legt dem Landtag und der Landesregierung jeweils für zwei Kalenderjahre einen Bericht über ihre oder seine Tätigkeit als Beauftragte oder Beauftragter für das Recht auf Information vor. § 27 des Datenschutzgesetzes Nordrhein-Westfalen gilt entsprechend.
 
-§ 14
-Überprüfung
-der Auswirkungen des Gesetzes
+§ 14 (Fn 2)
+In-Kraft-Treten, Berichtspflicht
 
-(1) Die Auswirkungen dieses Gesetzes werden nach einem Erfahrungszeitraum von zwei Jahren durch die Landesregierung unter Mitwirkung der kommunalen Spitzenverbände und die Landesbeauftragte oder des Landesbeauftragten für den Datenschutz überprüft. Die Landesregierung unterrichtet danach den Landtagsausschuss für Innere Verwaltung und Verwaltungsstrukturreform über das Ergebnis der Überprüfung.
-
-(2) Die öffentlichen Stellen, bei denen Anträge auf Zugang zu Informationen gestellt werden, sind verpflichtet, eine Statistik zu führen. Die Statistik umfasst den Gegenstand des Antrags, die Dauer der Bearbeitung, die Entscheidung über den Antrag sowie die Anzahl der Widersprüche und Klagen. Sie weist außerdem aus, in wie vielen Fällen mit welchem Gegenstand betroffene Personen eine Einwilligung in die Offenbarung ihrer personenbezogenen Daten erteilt haben und in wie vielen und welchen Fällen eine Einwilligung ausdrücklich nicht erteilt oder die Verweigerung der Einwilligung durch Nichtäußerung der betroffenen Person fingiert wurde. Gleiches gilt für die Gelegenheit zur Stellungnahme nach § 9 Abs. 2.
-
-§ 15
-In-Kraft-Treten
-
-Dieses Gesetz tritt am 1. Januar 2002 in Kraft.
+Dieses Gesetz tritt am 1. Januar 2002 in Kraft. Die Landesregierung berichtet dem Landtag bis zum 31. Dezember 2009 über die Erfahrungen mit diesem Gesetz.
 
 Die Landesregierung
 Nordrhein-Westfalen
@@ -213,5 +204,10 @@ Die Ministerin
 für Bundes- und Europaangelegenheiten
 im Geschäftsbereich des Ministerpräsidenten
 
-Fn 1	
-GV. NRW. 2001 S. 806.
+Fn 1
+
+GV. NRW. S. 806; geändert durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351), in Kraft getreten am 30. April 2005.
+
+Fn 2
+
+§ 14 neu gefasst und § 15 gestrichen durch Artikel 9 des Fünften Befristungsgesetzes vom 5.4.2005 (GV. NRW. S. 351); in Kraft getreten am 30. April 2005.
